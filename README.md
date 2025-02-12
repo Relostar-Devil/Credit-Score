@@ -35,13 +35,6 @@ Manual classification of credit scores in large-scale finance settings can be ti
   - `Monthly_Balance`
   - **Target:** `Credit_Score`
 
-## Project Structure
-
-├── credit_score.csv # Dataset file
-├── Classification-Credit-Score.ipynb # Jupyter Notebook with full project implementation
-├── README.md # Project documentation
-└── additional_files/ # (Optional) Supplementary resources and visualizations
-text
 
 ## Methodology
 
